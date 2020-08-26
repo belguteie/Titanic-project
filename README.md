@@ -16,4 +16,4 @@ Problem: Knowing from a training set of samples listing passengers who survived 
 Data Visualization: Visualizing relationship between Point of Embarkation and Survival Rate by Sex.
 
 ![](/image.png)
-Determining which variables have greatest effect on survivability on the Titanic.
+<br> Determining which variables have greatest effect on survivability on the Titanic.
