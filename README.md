@@ -1,5 +1,4 @@
-# projects
-Project 1: Titanic: Machine Learning from Disaster
+## Titanic: Machine Learning from Disaster
 
 Data Source: (https://www.kaggle.com/c/titanic)
 
