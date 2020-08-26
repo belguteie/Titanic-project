@@ -1,4 +1,5 @@
-# Titanic: Machine Learning Project
+# projects
+Project 1: Titanic: Machine Learning from Disaster
 
 Data Source: (https://www.kaggle.com/c/titanic)
 
@@ -10,4 +11,9 @@ Problem: Knowing from a training set of samples listing passengers who survived 
 * Cross-validation of classification methods - Logistic Regression, Decision Tree, K Nearest Neighbors, Random Forest, and Support Vector Classifier
 * Best result: 77.99% accuracy (top 15%)
 
+![](/image2.png)
+
+Data Visualization: Visualizing relationship between Point of Embarkation and Survival Rate by Sex.
+
 ![](/image.png)
+Determining which variables have greatest effect on survivability on the Titanic.
